@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "quartz.xaidee.fungaldyed.mixin",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [
+    ],
+    "client": [
+      "FungalDyedMixin"
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+  }
+  
